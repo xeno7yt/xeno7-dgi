@@ -1,0 +1,1 @@
+Xeno7YT digital identity website. Open index.html. Support page has native UPI deep link and a locally generated static UPI QR (support-qr.png). QR is amount-free; set amount in payment app. Native UPI links may not work in desktop browsers or some in-app browsers. All pages use shared responsive CSS. No payment is collected by this website.
